@@ -258,9 +258,3 @@ Se você conseguiu:
 - ✅ Ver `model_loaded: true`
 - ✅ Fazer uma predição
 
-**Parabéns! Sua API está funcionando! 🎉**
-
----
-
-**Tempo total:** ~30 minutos  
-**Dificuldade:** ⭐⭐ (Fácil-Intermediário)
