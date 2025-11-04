@@ -1,6 +1,5 @@
 """
 API FastAPI Simples para Classificação de Qualidade de Vinhos
-TEMPLATE PARA OS ALUNOS - Complete apenas a seção ENDPOINTS
 
 Siga o notebook Atividade_API_ML.ipynb para completar!
 """
