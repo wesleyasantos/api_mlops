@@ -1,0 +1,13 @@
+{
+  "fixed_acidity": 7.0,
+  "volatile_acidity": 0.3,
+  "citric_acid": 0.5,
+  "residual_sugar": 2.0,
+  "chlorides": 0.05,
+  "free_sulfur_dioxide": 30.0,
+  "total_sulfur_dioxide": 100.0,
+  "density": 0.995,
+  "pH": 3.2,
+  "sulphates": 0.6,
+  "alcohol": 13.0
+}
