@@ -1,7 +1,5 @@
 # Início Rápido - Aula 12: API ML
 
-Coloque sua API ML rodando em **30 minutos**!
-
 ---
 
 ## IMPORTANTE: Ordem Correta!
