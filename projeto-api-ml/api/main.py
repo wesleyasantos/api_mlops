@@ -1,6 +1,5 @@
 """
 API FastAPI Simples para Classificação de Qualidade de Vinhos
-Nível: Fácil-Intermediário
 """
 
 from fastapi import FastAPI, HTTPException
